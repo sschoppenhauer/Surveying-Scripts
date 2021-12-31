@@ -4,7 +4,7 @@
 
 #### Verfahren zur Punktbestimmung
 
-[Rückwärtseinschnitt nach CASSINI](https://sschoppenhauer.github.io/Surveying-Scripts/Rückwärtsschnitt_CASSINI.html)
+[Rückwärtseinschnitt nach CASSINI](https://sschoppenhauer.github.io/Surveying-Scripts/Rückwärtschnitt_CASSINI.html)
 
 #### Räumliche Transformationen 
 [Umrechnung ellipsoidische geographische in ellipsoidische kartesische Koordinaten](https://sschoppenhauer.github.io/Surveying-Scripts/Umrechnung_Geographisch-Kartesisch.html)
