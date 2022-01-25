@@ -2,6 +2,10 @@
 
 [Basic Calculator](https://sschoppenhauer.github.io/Surveying-Scripts/Rechner.html)
 
+#### Vermessungstechnische Grundaufgaben
+
+[Richtungswinkel und Strecke](https://sschoppenhauer.github.io/Surveying-Scripts/Richtungswinkel-und-Strecke.html)
+
 #### Verfahren zur Punktbestimmung
 
 [Rückwärtseinschnitt nach CASSINI](https://sschoppenhauer.github.io/Surveying-Scripts/Rückwärtschnitt_CASSINI.html)
